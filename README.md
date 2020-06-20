@@ -1,1 +1,1 @@
-# birdShizi
+# shanshan-flappy-bird
